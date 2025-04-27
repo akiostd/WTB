@@ -14,8 +14,8 @@ we don't want to make promises but we have commitments no promises but my map is
 
 as said by a child who has a desire ".." ~~~ open
 
-| name  | address   | amounts |
-|-------|-----------|---------|
-|       |           |         |
-|       |           |         |
+| name  | address                  | amounts |
+|-------|--------------------------|---------|
+|       |                          |         |
+|       |                          |         |
 
