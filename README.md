@@ -16,9 +16,4 @@ as said by a child who has a desire ".." ~~~ open
 
 | name  | address                  | amounts |
 |-------|--------------------------|---------|
-|       |                          |         |
-|       |                          |         |
-|       |                          |         |
-|       |                          |         |
-|       |                          |         |
-|       |                          |         |
+
