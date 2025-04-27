@@ -13,3 +13,9 @@ all have skills and goals make many promises but are not accompanied by honest d
 we don't want to make promises but we have commitments no promises but my map is my way that's life that sometimes there are things that can't be understood. "time and age" 
 
 as said by a child who has a desire ".." ~~~ open
+
+| name  | address   | amounts |
+|-------|-----------|---------|
+|       |           |         |
+|       |           |         |
+
