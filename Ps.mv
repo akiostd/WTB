@@ -1,0 +1,25 @@
+struct State has key {
+        !_?: u64,
+        adoption_rate: u64,
+        solana_dominance_index: u64,
+        is_strategy_active: bool,
+        is_viable_model: bool,
+        is_solid_foundation_built: bool,
+        security_score: u64,
+        market_understanding_depth: u64,
+    
+        events: EventHandle<ProjectUpdateEvent>,
+    }
+
+    //
+    let current_time = aptos_framework::timestamp::now_seconds();
+        event::emit_event(
+            &mut borrow_global_mut<State>(signer::address_of(account)).events,
+             UpdateEvent {
+                timestamp: current_time,
+                message: B"state initialized".to_ascii_bytes(),
+                c?_!: 0,
+                adoption_rate: 0,
+            }
+        );
+    }
