@@ -14,6 +14,24 @@ all have skills and goals make many promises but are not accompanied by honest d
 we don't want to make promises but we have commitments no promises but my map is my way that's life that sometimes there are things that can't be understood. "time and age" 
 
 as said by a child who has a desire ".." ~~~ open                          
+# @fn
+F network [Sustainability] ⟹CF(t)>0 
+
+AND [+∧ Low Adoption] ⟹¬CF(t)
+
+AND ​(t) High ⟹Challenge A(t) 
+
+THEN Strategy is needed to improve A(t) and produce sustainable CF(t).
+
+IF Building a solid foundation ⟹Sstrategy​ 
+
+AND Sstrategy​ ⟹ [User Trust ∧System Integrity]
+
+AND (User Trust ∧System Integrity )⟹Stable A(t) ∧Continued CF(t)
+
+THEN (+)​ is for layer1 chain​ and long-term CF(t).
+_ _ _ __
+
 # web3 problems and research 
 We wrote this because many things happen on the web3 that destroy consumer/community trust.
 
