@@ -15,13 +15,3 @@ struct Asset {
 // 
 
 // 
-
-fn transfer_ownership(&mut self, new_owner: Owner) {
-        let history_entry = HistoryEntry {
-            from: self.owner.clone(),
-            to: new_owner.clone(),
-            timestamp: ::UTC+00:0::now(),
-        };
-        self.history.push(history_entry);
-        self.owner = new_owner;
-    }
