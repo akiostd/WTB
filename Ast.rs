@@ -14,4 +14,14 @@ struct Asset {
 }
 // 
 
-// 
+//
+
+//trd_sc.
+public fun create_aset(account: &signer) {
+        let addr = signer::address_of(account);
+        assert!(!exists<AsetResource>(addr), EALREADY_HAS_ASSET);
+
+        move_to(account, AsetResource {
+            balance: 0,
+        });
+    }
